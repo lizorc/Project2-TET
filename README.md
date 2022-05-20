@@ -33,8 +33,10 @@ Ya que tenemos las IP elasticas de las máquinas, con el servicio de Freenom se 
 
 ## Herramientas utilizadas
 
-#### nginx
-#### no se 
+#### Nginx1.12
+#### Docker
+#### Node JS
+#### AWS
 
 ## Analisis de costos de la solución
 
